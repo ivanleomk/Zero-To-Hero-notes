@@ -34,8 +34,9 @@ python -m ipykernel install --user --name=<what you want to call your virtual en
 
 ### Lesson 1
 
-- [Lesson 1](./lesson1/Lesson 1.ipynb)
-- [BinaryClassification](./lesson1/lesson_1.ipynb)
+Writing your own neural network using a simulated clone of micrograd plus an additional notebook showing how to use this neural network in a simple binary classification task
+
+Network ultimately achieves ~42% accuracy on a test set provided by Kaggle for the disaster classification dataset
 
 ## Troubleshooting
 
