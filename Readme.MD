@@ -30,7 +30,12 @@ Once you've done so, don't forget to add the virtual environment to your ipykern
 python -m ipykernel install --user --name=<what you want to call your virtual env in jupyter notebook>
 ```
 
+## Content
 
+### Lesson 1
+
+- [Lesson 1](./lesson1/Lesson 1.ipynb)
+- [BinaryClassification](./lesson1/lesson_1.ipynb)
 
 ## Troubleshooting
 
